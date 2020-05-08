@@ -3,22 +3,22 @@
 
   app.directive("productDescription", function() {
     return {
-      restrict: "E",
-      templateUrl: "product-description.html"
+      restrict: "A",
+      templateUrl: "../partials/product-description.html"
     };
   });
 
   app.directive("productReviews", function() {
     return {
-      restrict: "E",
-      templateUrl: "product-reviews.html"
+      restrict: "A",
+      templateUrl: "../partials/product-reviews.html"
     };
   });
 
   app.directive("productSpecs", function() {
     return {
       restrict:"A",
-      templateUrl: "product-specs.html"
+      templateUrl: "../partials/product-specs.html"
     };
   });
 

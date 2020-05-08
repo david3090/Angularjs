@@ -28,12 +28,12 @@ var gems = [{
 	reviews: [{
 		stars: 5,
 		body: "I love this gem!",
-		author: "joe@example.org",
+		author: "david_3090@hotmail.com",
 		createdOn: 1397490980837
 	}, {
 		stars: 1,
 		body: "This gem sucks.",
-		author: "tim@example.org",
+		author: "david_3090@hotmail.com",
 		createdOn: 1397490980837
 	}]
 }, {
@@ -55,12 +55,12 @@ var gems = [{
 	reviews: [{
 		stars: 3,
 		body: "I think this gem was just OK, could honestly use more shine, IMO.",
-		author: "JimmyDean@example.org",
+		author: "david_3090@hotmail.com",
 		createdOn: 1397490980837
 	}, {
 		stars: 4,
 		body: "Any gem with 12 faces is for me!",
-		author: "gemsRock@example.org",
+		author: "david_3090@hotmail.com",
 		createdOn: 1397490980837
 	}]
 }, {
@@ -81,17 +81,17 @@ var gems = [{
 	reviews: [{
 		stars: 1,
 		body: "This gem is WAY too expensive for its rarity value.",
-		author: "turtleguyy@example.org",
+		author: "david_3090@hotmail.com",
 		createdOn: 1397490980837
 	}, {
 		stars: 1,
 		body: "BBW: High Shine != High Quality.",
-		author: "LouisW407@example.org",
+		author: "david_3090@hotmail.com",
 		createdOn: 1397490980837
 	}, {
 		stars: 1,
 		body: "Don't waste your rubles!",
-		author: "nat@example.org",
+		author: "david_3090@hotmail.com",
 		createdOn: 1397490980837
 	}]
 }];

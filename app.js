@@ -1,3 +1,5 @@
+
+
 (function() {
   var app = angular.module('store', ['store-directives'])
 
@@ -49,12 +51,12 @@
                 {
                   stars: 5,
                   body:"I love this product!",
-                  author:"Arnold@homas.com"
+                  author:"david_3090@hotmail.com"
                 },
                 {
                   stars:1,
                   body:"This product sucks",
-                  author:"Reali@hater.com",
+                  author:"david_3090@hotmail.com",
                 }
               ]
     }, 
@@ -92,12 +94,12 @@
                 {
                   stars: 5,
                   body:"I love this product!",
-                  author:"Arnold@homas.com",
+                  author:"david_3090@hotmail.com",
                 },
                 {
                   stars:1,
                   body:"This product sucks",
-                  author:"Reali@hater.com",
+                  author:"david_3090@hotmail.com",
                 }
               ]
     },
@@ -135,17 +137,17 @@
                 {
                   stars: 5,
                   body:"I love this product!",
-                  author:"Arnold@homas.com",
+                  author:"david_3090@hotmail.com",
                 },
                 {
                   stars:1,
                   body:"This product sucks",
-                  author:"Reali@hater.com",
+                  author:"david_3090@hotmail.com",
                 },
                 {
                   "stars": 5,
                   "body": "I love this gem!",
-                  "author": "joe@example.org",
+                  "author": "david_3090@hotmail.com",
                 }
               ]
     },
@@ -183,17 +185,17 @@
                 {
                   stars: 5,
                   body:"I love this product!",
-                  author:"Arnold@homas.com"
+                  author:"david_3090@hotmail.com"
                 },
                 {
                   stars:1,
                   body:"This product sucks",
-                  author:"Reali@hater.com"
+                  author:"david_3090@hotmail.com"
                 },
                 {
                   stars: 3,
                   body: "I think this gem was just OK, could honestly use more shine, IMO.",
-                  author: "JimmyDean@example.org",
+                  author: "david_3090@hotmail.com",
                 }
               ]
     },
@@ -231,27 +233,19 @@
                 {
                   stars: 5,
                   body:"I love this product!",
-                  author:"Arnold@homas.com"
+                  author:"david_3090@hotmail.com"
                 },
                 {
                   stars:1,
                   body:"This product sucks",
-                  author:"Reali@hater.com"
+                  author:"david_3090@hotmail.com"
                 },
                 {
                   stars: 1,
                   body: "This gem is WAY too expensive for its rarity value.",
-                  author: "turtleguyy@example.org",
+                  author: "david_3090@hotmail.com",
                 }
               ]
     }
 ] 
 })()
-(function(){
-  var app = angular.module('store', ['store-products']);
-  app.controller('storeController', function(){});
-  app.directive('productTitle', function(){});
-  app.directive('productGallery', function(){});
-  app.directive('productPanles', function(){});
-
-})();

@@ -15,12 +15,12 @@
       "reviews": [{
         "stars": 5,
         "body": "I love this gem!",
-        "author": "joe@thomas.com",
+        "author": "david_3090@hotmail.com",
         "createdOn": 1397490980837
       }, {
         "stars": 1,
         "body": "This gem sucks.",
-        "author": "tim@hater.com",
+        "author": "david_3090@hotmail.com",
         "createdOn": 1397490980837
       }]
     },
